@@ -1,0 +1,10 @@
+﻿{
+  "Name": "BetterCalendar",
+  "Author": "Mats Bjønnes",
+  "Version": "1.0.0",
+  "Description": "Adds increased functionality to the calendar like the ability to create custom and periodic events.",
+  "UniqueID": "MatsBjonnes.BetterCalendar",
+  "EntryDll": "BetterCalendar.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
